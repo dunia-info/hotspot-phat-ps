@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "blok",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "NAMA": "Polygon A1-A5", "ZONA": "UTM 50S", "Luas": "-20.0104500094629", "RKTPH_PERU": "BLOK", "PETAK_ID": "BLOK" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 115.026552373, -0.81557794 ], [ 115.031359695, -0.815422801 ], [ 115.032348405, -0.811307104 ], [ 115.029170075, -0.811244459 ], [ 115.028916994000014, -0.812070449 ], [ 115.026552373, -0.81557794 ] ] ] } }
+]
+}

@@ -1,2 +1,2 @@
-# hotspot-phat-ps
-hotspot-phat-ps
+# hotspot-tms
+hotspot-tms
